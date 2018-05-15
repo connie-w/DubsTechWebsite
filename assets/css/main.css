@@ -17,6 +17,10 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+	
+	img {
+		width: 400px;
+	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
